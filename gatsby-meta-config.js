@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Dev.JCoder Blog`,
+  title: `Dev.Jun Blog`,
   description: `Blog posted about web app dev`,
   author: `HyeJunKang`,
-  introduction: `Dev.JCoder Blog`,
+  introduction: `Dev.Jun Blog`,
   siteUrl: `https://vxggangxv.github.io`,
   social: {
     twitter: ``, // Your Twitter account
